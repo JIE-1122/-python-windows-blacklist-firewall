@@ -1,4 +1,4 @@
-<center>## 二级标题居中</center>
+<p align="center">-这些文件是有关网络安全的课程设计-</p>  
 如要进行测试请安装NPCAP否则基于抓包的代码不能成功运行  
 该课设是基于WINDOWS高级防火墙实现的如果不是WINDOWS系统则无效  
 本课设是基于VMWARE虚拟机进行测试的  
